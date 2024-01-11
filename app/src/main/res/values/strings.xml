@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">insurance_company</string>
+    <string name="life_insurance">Life insurance</string>
+    <string name="civil_insurance">Civil insurance</string>
+    <string name="home_insurance">Home insurance</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="true_false">true/false</string>
+    <string name="reparation">Reparation</string>
+    <string name="save">Save</string>
+</resources>
